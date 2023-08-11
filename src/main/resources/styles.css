@@ -1,0 +1,22 @@
+.root {
+    -fx-base: #EAEAEA;
+}
+
+.label {
+    -fx-text-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #0073e6;
+    -fx-text-fill: white;
+    -fx-padding: 5px 15px;
+    -fx-cursor: hand;
+}
+
+.text-field {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #BDBDBD;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+}
